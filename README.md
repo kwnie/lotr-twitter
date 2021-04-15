@@ -1,1 +1,1 @@
-# lotr-twitter
+# Lord of the Rings Twitter
